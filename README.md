@@ -1,2 +1,2 @@
-## Final Project for Math 156
+## Image Classification
 Image classfication with convolutional neural networks using PyTorch. 
